@@ -28,5 +28,9 @@ The following search algorithms are implemented:
 
 ## Test and visualization
 
-![image](https://github.com/user-attachments/assets/04deb97a-8c5c-4321-8189-ae6302c2bbf1)
+![image](https://github.com/user-attachments/assets/1c894fcd-3ee1-4db6-8a36-ec9fe331be00)
+
+Iterative vs Reverse
+
+![image](https://github.com/user-attachments/assets/ddf9c482-6249-4b5b-9813-598658fe0d3e)
 
