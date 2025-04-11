@@ -32,5 +32,6 @@ The following search algorithms are implemented:
 
 Iterative vs Reverse
 
-![image](https://github.com/user-attachments/assets/ddf9c482-6249-4b5b-9813-598658fe0d3e)
+![image](https://github.com/user-attachments/assets/adbcc08c-7b81-4cfa-a3e4-e680c11a7fd2)
+
 
